@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(0,0,0,0.7);
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 60px;
+}
